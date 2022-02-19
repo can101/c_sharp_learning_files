@@ -1,0 +1,7 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,8 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Collections\bin\Debug\Collections.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Collections\bin\Debug\Collections.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Collections\bin\Debug\Collections.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Collections\obj\Debug\Collections.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Collections\obj\Debug\Collections.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache

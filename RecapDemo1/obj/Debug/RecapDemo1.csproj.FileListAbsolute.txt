@@ -1,0 +1,7 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb

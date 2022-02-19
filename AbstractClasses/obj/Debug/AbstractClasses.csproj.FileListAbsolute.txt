@@ -1,0 +1,7 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb

@@ -1,0 +1,8 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Constructors\bin\Debug\Constructors.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Constructors\bin\Debug\Constructors.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Constructors\obj\Debug\Constructors.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Constructors\obj\Debug\Constructors.pdb

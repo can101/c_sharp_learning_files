@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aeb9c88c-0377-400e-8e62-742df607411b": {
+      "ProjectGuid": "aeb9c88c-0377-400e-8e62-742df607411b",
+      "DisplayName": "TpypesAndVariables",
+      "ColorIndex": 0
+    },
+    "14a0bc06-3070-4946-bc40-d3619e567d61": {
+      "ProjectGuid": "14a0bc06-3070-4946-bc40-d3619e567d61",
+      "DisplayName": "conditionals",
+      "ColorIndex": 1
+    },
+    "9393abe9-fb17-440e-a09e-40fe92228734": {
+      "ProjectGuid": "9393abe9-fb17-440e-a09e-40fe92228734",
+      "DisplayName": "Methodts",
+      "ColorIndex": 2
+    },
+    "428950d6-5ed0-4669-aca5-115d8b508225": {
+      "ProjectGuid": "428950d6-5ed0-4669-aca5-115d8b508225",
+      "DisplayName": "Arrays",
+      "ColorIndex": 3
+    },
+    "8601a7e2-9b92-4be5-8c48-8f89cb5345b5": {
+      "ProjectGuid": "8601a7e2-9b92-4be5-8c48-8f89cb5345b5",
+      "DisplayName": "Loops",
+      "ColorIndex": 4
+    },
+    "d2023df8-20ae-4c3f-b347-b6c854020e51": {
+      "ProjectGuid": "d2023df8-20ae-4c3f-b347-b6c854020e51",
+      "DisplayName": "Strings",
+      "ColorIndex": 5
+    },
+    "71cd3b2c-3f2c-4196-8c21-540caddf1f20": {
+      "ProjectGuid": "71cd3b2c-3f2c-4196-8c21-540caddf1f20",
+      "DisplayName": "Classes",
+      "ColorIndex": 6
+    },
+    "1cae83be-ffa8-486a-b7b0-511aa8da8bbd": {
+      "ProjectGuid": "1cae83be-ffa8-486a-b7b0-511aa8da8bbd",
+      "DisplayName": "RecapDemo",
+      "ColorIndex": 7
+    },
+    "791b7803-a098-41a9-b271-65f9e2d1d4f0": {
+      "ProjectGuid": "791b7803-a098-41a9-b271-65f9e2d1d4f0",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 8
+    },
+    "c42d055f-b759-4dd3-97b0-0d19ba474033": {
+      "ProjectGuid": "c42d055f-b759-4dd3-97b0-0d19ba474033",
+      "DisplayName": "InterfacesDemo",
+      "ColorIndex": 9
+    },
+    "b161c3f7-b614-4c6d-85b6-7c44c297918b": {
+      "ProjectGuid": "b161c3f7-b614-4c6d-85b6-7c44c297918b",
+      "DisplayName": "Inheritance",
+      "ColorIndex": 10
+    },
+    "006e1afc-3ef4-41e4-b531-344c5801b51b": {
+      "ProjectGuid": "006e1afc-3ef4-41e4-b531-344c5801b51b",
+      "DisplayName": "VirtualMethods",
+      "ColorIndex": 11
+    },
+    "080a3e69-0a02-4446-a819-961a66d7dd89": {
+      "ProjectGuid": "080a3e69-0a02-4446-a819-961a66d7dd89",
+      "DisplayName": "AbstractClasses",
+      "ColorIndex": 12
+    },
+    "62136a61-e50a-413b-96bd-5df3309061ac": {
+      "ProjectGuid": "62136a61-e50a-413b-96bd-5df3309061ac",
+      "DisplayName": "RecapDemo2",
+      "ColorIndex": 13
+    },
+    "b83933cc-fb78-469e-8a1b-c26f4ee783cc": {
+      "ProjectGuid": "b83933cc-fb78-469e-8a1b-c26f4ee783cc",
+      "DisplayName": "RecapDemo1",
+      "ColorIndex": 14
+    },
+    "ca39ce3a-da32-48d7-b42a-9d749a610983": {
+      "ProjectGuid": "ca39ce3a-da32-48d7-b42a-9d749a610983",
+      "DisplayName": "AccessModifiers",
+      "ColorIndex": 15
+    },
+    "2c7fd443-4b92-405d-a936-443442eb5039": {
+      "ProjectGuid": "2c7fd443-4b92-405d-a936-443442eb5039",
+      "DisplayName": "AccessModifiers",
+      "ColorIndex": 0
+    },
+    "1ae3693b-6ae5-4d36-8248-5ae2487616c7": {
+      "ProjectGuid": "1ae3693b-6ae5-4d36-8248-5ae2487616c7",
+      "DisplayName": "AccessModifersDemo",
+      "ColorIndex": 1
+    },
+    "f230a772-e699-4b6c-9764-1c7fcf773545": {
+      "ProjectGuid": "f230a772-e699-4b6c-9764-1c7fcf773545",
+      "DisplayName": "Constructors",
+      "ColorIndex": 2
+    },
+    "f9952af1-e848-4f8e-b3c7-ffcffd58214a": {
+      "ProjectGuid": "f9952af1-e848-4f8e-b3c7-ffcffd58214a",
+      "DisplayName": "ReferenceAndValueType",
+      "ColorIndex": 3
+    },
+    "8636a7a4-69f1-4686-99de-9cdf6446e864": {
+      "ProjectGuid": "8636a7a4-69f1-4686-99de-9cdf6446e864",
+      "DisplayName": "Collections",
+      "ColorIndex": 4
+    },
+    "0bac4fd1-f00b-4028-8022-d7de11f30bab": {
+      "ProjectGuid": "0bac4fd1-f00b-4028-8022-d7de11f30bab",
+      "DisplayName": "Exceptions",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4c3efcb0-e4f2-4d57-8a17-cf3f969043da": {
+      "ProjectGuid": "4c3efcb0-e4f2-4d57-8a17-cf3f969043da",
+      "DisplayName": "AdoNetDemo",
+      "ColorIndex": 6
+    },
+    "202240cc-39e8-4fc7-9823-e2a90f3a1613": {
+      "ProjectGuid": "202240cc-39e8-4fc7-9823-e2a90f3a1613",
+      "DisplayName": "EntityFrameworkDemo",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

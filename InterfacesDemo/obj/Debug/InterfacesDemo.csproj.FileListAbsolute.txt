@@ -1,0 +1,8 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.AssemblyReference.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

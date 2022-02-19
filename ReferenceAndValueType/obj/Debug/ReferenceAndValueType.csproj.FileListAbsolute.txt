@@ -1,0 +1,8 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.AssemblyReference.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb

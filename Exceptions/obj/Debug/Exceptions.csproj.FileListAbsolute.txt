@@ -1,0 +1,8 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb

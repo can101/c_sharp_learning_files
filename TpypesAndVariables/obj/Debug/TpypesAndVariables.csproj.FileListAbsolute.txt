@@ -1,0 +1,8 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\TpypesAndVariables\bin\Debug\TpypesAndVariables.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\TpypesAndVariables\bin\Debug\TpypesAndVariables.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\TpypesAndVariables\bin\Debug\TpypesAndVariables.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\TpypesAndVariables\obj\Debug\TpypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\TpypesAndVariables\obj\Debug\TpypesAndVariables.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\TpypesAndVariables\obj\Debug\TpypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\TpypesAndVariables\obj\Debug\TpypesAndVariables.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\TpypesAndVariables\obj\Debug\TpypesAndVariables.pdb

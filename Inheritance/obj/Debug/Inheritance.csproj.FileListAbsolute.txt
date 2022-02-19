@@ -1,0 +1,7 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\conditionals\bin\Debug\conditionals.exe.config
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\conditionals\bin\Debug\conditionals.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\conditionals\bin\Debug\conditionals.pdb
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\conditionals\obj\Debug\conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\conditionals\obj\Debug\conditionals.csproj.CoreCompileInputs.cache
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\conditionals\obj\Debug\conditionals.exe
+C:\Users\can101-back-end\Desktop\workings\c#\CSharpCourse\conditionals\obj\Debug\conditionals.pdb
